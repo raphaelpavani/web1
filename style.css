@@ -130,6 +130,8 @@ table {
 
 nav {
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding-bottom: 5px;
 }
 li {
   display: inline;
@@ -163,6 +165,7 @@ p {
 
 a {
   color: #c89933;
+  text-decoration: none;
 }
 
 .wrapper {
